@@ -1,0 +1,8 @@
+# Enviornment folder
+env/
+
+# Python cache
+python/__pycache__
+
+# Mac system files
+.DS_store
